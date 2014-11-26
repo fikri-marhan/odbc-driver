@@ -1,13 +1,12 @@
 {
-    "name": "wajatimur/odbc-driver",
+    "name": "fikri-marhan/odbc-driver",
     "type": "library",
     "description": "ODBC Driver for Laravel",
     "keywords": ["odbc","laravel"],
     "authors": [
         {
-            "name": "Azri Jamil",
-            "email": "azri@nematix.com",
-            "homepage": "http://wajatimur.wordpress.com"
+            "name": "Fikri Marhan",
+            "email": "fikri.marhan@gmail.com"
         }
     ],
     "license": "MIT",
